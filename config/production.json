@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://will:will@bookclub-kuzr4.mongodb.net/will?retryWrites=true&w=majority",
+  "jwtSecret": "booksecret",
+  "API_KEY": "AIzaSyAuPLCQHVfiMUMWNdwx8UMiePUbESD2xpA"
+}
