@@ -4,6 +4,7 @@ const users = require("./routes/users");
 const profile = require("./routes/profile");
 const posts = require("./routes/posts");
 const auth = require("./routes/auth");
+const path = require("path");
 
 const app = express();
 
